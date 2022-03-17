@@ -99,3 +99,9 @@
 .tipo-fada {
     background-color: #fdbde2;
 }
+.cartao-pokemon{
+    position:fixed;
+    left:  10%;
+    top: -0%; 
+}
+
